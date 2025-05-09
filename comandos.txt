@@ -1,0 +1,21 @@
+Andriéria Azevedo Dantas
+
+*Comandos*
+git clone https://gitlab.com/mizael.cortez/curso-branchs-ifrn-ead
+git branch
+git add .
+git commit -m "Criando texto.txt"
+git checkout -b feature-1
+git switch feature-1
+git branch 
+git add .
+git commit -m "Alterando conteúdo do arquivo"
+git switch main
+git branch
+git add .
+git commit -m "Alterando conteúdo na main" 
+git merge feature-1
+git add .
+git commit -m "Resolvendo conflito"
+git checkout -b add-comandos
+git branch
