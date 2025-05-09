@@ -1,2 +1,3 @@
 Arquivo criado para resolução da Tarefa 2.
+Adicionando mais conteúdo ao arquivo na branch feature-1.
 Alterando o conteúdo do arquivo na branch main.
